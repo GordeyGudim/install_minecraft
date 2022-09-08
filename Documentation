@@ -1,4 +1,5 @@
 1)Вам нужно клонировать репозиторий в папку Dowloads/Документы, прописав в терминал "cd Dowloads ; https://github.com/GordeyGudim/install_minecraft.git".
 2)В клонированную папку репозитория из zip-файла вам нужно копировать файл с препиской jar.
-3)Снова откройте терминал, пропишите "сd ~/Downloads/install_minecraft ; python py.py" и ждите установки TLaunchera.   
+3)Снова откройте терминал, пропишите "сd ~/Downloads/install_minecraft ; python install_minecraft.py" и ждите установки TLaunchera.
 Вас попросят ввести пароль если вы нам доверяете, то можете прописыать вводить пароль, если нет Welcom на ютуб.
+4)В последующие разы запускать команду сd "~/Downloads/install_minecraft ; python launch_minecraft_without_autentification.py"

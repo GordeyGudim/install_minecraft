@@ -1,4 +1,3 @@
-
 import subprocess
 import json
 with open('count_data.json', 'r') as users_file:
